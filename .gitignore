@@ -1,13 +1,7 @@
-node_modules
-ios/RCTContacts.xcodeproj/xcuserdata
-ios/RCTContacts.xcodeproj/project.xcworkspace
-
-# Android/IJ
-.idea/workspace.xml
-.idea/libraries
-.gradle
-local.properties
-*.iml
-build
-
-.npm-debug.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
