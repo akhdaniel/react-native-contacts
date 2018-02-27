@@ -1,8 +1,7 @@
-node_modules
-ios/RCTContacts.xcodeproj/xcuserdata
-ios/RCTContacts.xcodeproj/project.xcworkspace
-
-# Intellij
-.idea
-
-.npm-debug.log
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
